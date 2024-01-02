@@ -11,7 +11,7 @@ Na parte dos [scripts](https://github.com/ThiagoReis1/BancodeDados_TP1/tree/main
 [adiciona.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/adiciona.py): vai adiciona os dados do arquivo no banco de dados.  
 [dashboard_funcs.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/dashboard_funcs.py): aqui tá as funções que vão ser usadas no dashboard.  
 [dashboard_menu.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/dashboard_menu.py): aqui vai cuidar de pegar a entrada do usuario para chamar as funções corretas.  
-[apagar_BD.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/apagar_BD.py): so apagar o banco de dados, nao tem um papel importante no funcionamento do programa foi criado na fase de teste.  
+[apagar_BD.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/apagar_BD.py): so apaga o banco de dados, nao tem um papel importante no funcionamento do programa foi criado na fase de teste.  
   
   
 [tp1_3.2.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/tp1_3.2.py): Um script python para extração dos dados do arquivo de entrada, criação do esquema do banco de dados, e povoamento das relações com estes dados.  
