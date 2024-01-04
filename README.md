@@ -16,4 +16,5 @@ Na parte dos [scripts](https://github.com/ThiagoReis1/BancodeDados_TP1/tree/main
   
 [tp1_3.2.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/tp1_3.2.py): Um script python para extração dos dados do arquivo de entrada, criação do esquema do banco de dados, e povoamento das relações com estes dados.  
 [tp1_3.3.py](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/tp1_3.3.py): Um script python para execução das consultas do Dashboard descritas na Seção 7.  
+[COnfiguração do Banco de Dados](https://github.com/ThiagoReis1/BancodeDados_TP1/blob/main/scripts/a_COMECE_AQUI.py): configure a senha(principalmente) para a sua senha e tudo deve funcionar bem! 
 
